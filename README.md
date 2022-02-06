@@ -1,2 +1,1 @@
-# proyecto19
-corredor fantasma
+# C19_LP_AM1
